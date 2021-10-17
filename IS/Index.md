@@ -1,0 +1,2 @@
+# Indice
+## [[Diagrama de clases]]
