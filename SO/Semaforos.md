@@ -1,5 +1,7 @@
 # Semáforos
 #so/procesos #flashcards/so/procesos/hebras 
+#flashcards/so 
+?
 - Primitvas en el kernel.
 - Más alto nivel que locks.
 - No solo mutex, sino que define planificaciones también.
@@ -19,3 +21,4 @@
 - Al ser variables globales pueden ser accesadas por cualquier hebra directamente (no buena para IS).
 - No hay conexión entre semáforo y recurso al que se quiere accesar.
 - Fácil de cometer errores.
+<!--SR:!2021-11-08,1,230-->

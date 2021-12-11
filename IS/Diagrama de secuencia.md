@@ -1,9 +1,11 @@
 # Diagrama de secuencia
-- Diagrama de secuencia de sistema.
-- Diagrama de comunicación.
-- Distintos pero equivalentes.
-- Describe orden temporal de las interacciones entre distintos participantes de la ejecución de un sistema software.
-- Comportamiento del sistema descrito como *caja negra*.
-- Ej. ![[Pasted image 20211013133121.png]]
--  ![[Pasted image 20211013133501.png]]
--  ![[Pasted image 20211013133517.png]]
+- Diagrama de interacción de UML.
+- Orden temporal de interacciones.
+- Software como comunicación entre objetos.
+- Sólo muestra eventos que cruzan limites del sistema.
+- Sistema como caja negra, asumimos que funciona.
+- Convertimos escenario principal de éxito a diagrama.
+- Documentación -> diagrama de secuencia.
+
+![[Pasted image 20211207004613.png]]
+## [[Ejemplo diagrama secuencia]]

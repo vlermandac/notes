@@ -1,5 +1,6 @@
 # Concurrencia y paralelismo
-#so/procesos 
+#so/procesos #flashcards/so 
+?
 - Sistema genera ilusión de procesos simultaneos.
 - Paralelismo: multiples cores, distintas instrucciones.
 - Hyperthreading: hebras en paralelo, puede ser en distintos cores.
@@ -9,3 +10,4 @@
 - Ejecución concurrente/paralela puede traer inconsistencias.
 - Se debe respetar puntos de conflicto u órdenes de ejecución.
 ### [[Hebras]]
+<!--SR:!2021-11-08,1,230-->

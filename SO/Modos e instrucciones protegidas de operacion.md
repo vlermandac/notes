@@ -1,5 +1,6 @@
 # Modos e instrucciones protegidas de operación
-#so/hw
+#so/hw #flashcards/so 
+?
 ## Modo kernel y modo usuario
 - Instrucciones de HW permitan cambiar de un modo a otro.
 - Espacios de MV puedes ser marcados como parte de espacio de usuario o kernel.
@@ -21,3 +22,4 @@
 	- Operación atómica cambia:
 		- PC, SP, protección de memoria, modo kernel/usuario.
 - Usuario no se da cuanta que hay un cambio.
+<!--SR:!2021-11-09,1,210-->

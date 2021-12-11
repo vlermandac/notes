@@ -1,5 +1,7 @@
 # Sincronización de hebras
 #flashcards/so/procesos/hebras 
+#flashcards/so 
+?
 	- Hebras ejecutan sus instrucciones en forma entrelazada.
 	- No se pueden asumir tiempos de ejecución (nunca usar sleep() para demorar ejecución).
 ### Compartición de recursos
@@ -12,7 +14,7 @@
 ### Cómo resolver problemas?
 - **[[Mecanismos de sincronizacion]]**
 - Sólo una hebra a la vez puede acceder a recurso compartido.
-- *Exclusión mutua*.
+- [[Mutex]] *Exclusión mutua*.
 - Segmento de código que accesa a recurso compartido se llama "sección crítica".
 - Idea es que sólo se proteja sección crítica y no otro código.
 ### Definiciones
@@ -34,3 +36,4 @@
 ### [[Problema productor_consumidor]]
 ### [[Problema lectores_escritor]]
 ### [[Problema de filosofos comensales]]
+<!--SR:!2021-11-08,1,230-->

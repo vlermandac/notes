@@ -1,5 +1,6 @@
 # HW y SO
-#so/hw
+#so/hw #flashcards/so 
+?
 - HW afecta SO.
 - HW determina posibilidades en el SW.
 - Instrucciones de arquitectura, chips, memoria vierual en MMU, etc.
@@ -13,3 +14,4 @@
 - [[I_O]].
 ## Booteo de SO
 ![[Pasted image 20210924000820.png]]
+<!--SR:!2021-11-10,2,230-->

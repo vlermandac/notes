@@ -22,3 +22,4 @@
 - Fetch-and-add.
 - Spinlocks con tickets.
 - Compare-and-swap, maneja concurrencia.
+<!--SR:!2021-11-08,1,230-->

@@ -1,5 +1,7 @@
 # Procesos
 #so/procesos
+#flashcards/so 
+?
 - Programa en ejecución.
 - Planificación/ scheduling.
 - Distintos estados.
@@ -24,6 +26,7 @@
 - Comunicación con otros.
 - Sincronización con otros.
 ---
+<!--SR:!2021-11-08,1,230-->
 
 ### Diagrama de estados de procesos
 ![[Pasted image 20210926150435.png]]

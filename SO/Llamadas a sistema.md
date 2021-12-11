@@ -1,4 +1,6 @@
 # Llamadas a sistema
+#flashcards/so 
+?
 ### Algunas llamadas
 - [[fork]]()
 - [[exec]]()
@@ -21,3 +23,4 @@
 ### Ejemplo
 ![[Pasted image 20210924172301.png]] 
 ![[Pasted image 20210925154701.png]]
+<!--SR:!2021-11-08,1,230-->

@@ -1,4 +1,6 @@
 # Problema de filósofos comensales
+#flashcards/so 
+?
 ### Descripción
 - Cada filósofo tiene su plato de arros, con 5 palitos.
 - 5 filósofos se sientan a la mesa. Piensan por un rato y cuando les da hambre comen.
@@ -7,3 +9,4 @@
 ---
 - Problema es importante porque introduce posibles problemas de [[Deadlock]] (bloqueo mortal) y starvation (inanición).
 ![[Pasted image 20210928135026.png]]
+<!--SR:!2021-11-10,3,250-->

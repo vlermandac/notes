@@ -1,4 +1,6 @@
 # Mecanismos de sincronización
+#flashcards/so 
+?
 - **[[Lock]]**.
 - **Variables de condición**.
 	- Hebra debe esperar por la ocurrencia de un evento antes de seguir. Otra avisará cuando esto ocurra.
@@ -11,3 +13,4 @@
 - **Mensajes.**
 	- Modelo simple de comunicación y sincronización basado en transferencia dde datos [[Atomica]] a través de un canal (send(dest, &msg), recv(src, &msg)).
 	- Aplicación directa a sistemas distribuidos (RPC, Java RMI).
+<!--SR:!2021-11-08,1,230-->

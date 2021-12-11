@@ -1,4 +1,6 @@
 # Memoria
+#flashcards/so 
+?
 ## Administración de memoria
 - SO:
 	- Asigna y quita memoria a procesos.
@@ -8,4 +10,5 @@
 ## Almacenamiento secundario
 - Bajo nivel, manipula operaciones sobre el disco.
 - Usadas por el sistema de archivos, admin de memoria virtual.
+<!--SR:!2021-11-10,2,230-->
 

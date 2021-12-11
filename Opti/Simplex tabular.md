@@ -1,6 +1,6 @@
 # Simplex tabular
 #simplex
-## Descripción 
+
 1. Encontrar base factible.
 2. Mientras exista dirección de mejora:
 	1. Encontrar *variable no básica* de entrada: dir. más conveniente de Z (f. objetivo).

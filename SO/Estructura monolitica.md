@@ -1,5 +1,8 @@
 # Estructura monolítica
+#flashcards/so 
+?
 ![[Pasted image 20210923164408.png]]
+<!--SR:!2021-11-10,2,230-->
 
 ## Monolítico con módulos
 ### Idea de módulos

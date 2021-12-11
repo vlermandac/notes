@@ -1,5 +1,7 @@
 # Sistemas operativos
 #so
+#flashcards/so 
+?
 ## Conceptos
 - Intermediario entre HW y usuario.
 - Monitorea el uso de recursos.
@@ -24,3 +26,4 @@
 - [[Por niveles]]
 - [[Microkernels]]
 ---
+<!--SR:!2021-11-08,1,230-->
